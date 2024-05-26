@@ -9,4 +9,4 @@ However, for the purpose of my learning and initial practice with basic coding a
 Program Information
 Program Written by: Sushila Shreesh
 
-Referenced with Original Tutorial: Divya Satani (GitHub Repository) Divya1205/
+Referenced with Original Tutorial: Divya Satani (GitHub Repository) https://github.com/Divya1205/MachineLearning2024_Hertie_School 
